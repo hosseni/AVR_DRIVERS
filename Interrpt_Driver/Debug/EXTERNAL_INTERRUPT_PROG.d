@@ -1,0 +1,14 @@
+EXTERNAL_INTERRUPT_PROG.o EXTERNAL_INTERRUPT_PROG.o:  \
+ ../EXTERNAL_INTERRUPT_PROG.c ../EXTERNAL_INTERRUPT_INIT.h \
+  ../EXTERNAL_INITERRUPTS_REG.h ../Utilities.h ../Dio_Int.h \
+  ../Std_Types.h
+
+../EXTERNAL_INTERRUPT_INIT.h:
+
+../EXTERNAL_INITERRUPTS_REG.h:
+
+../Utilities.h:
+
+../Dio_Int.h:
+
+../Std_Types.h:
